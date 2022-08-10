@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "479097371082",
+    "project_id": "marketplace-service-185fb",
+    "storage_bucket": "marketplace-service-185fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479097371082:android:5e6e60a25c045f6700b733",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479097371082-okovo0a22emhiugaatqfk2r6lkvkjkgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpMH7dnYZ8txpY2I6O432XsSMVo4tq3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479097371082-okovo0a22emhiugaatqfk2r6lkvkjkgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479097371082:android:e696853f66cfe84700b733",
+        "android_client_info": {
+          "package_name": "com.example.fiverr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479097371082-okovo0a22emhiugaatqfk2r6lkvkjkgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpMH7dnYZ8txpY2I6O432XsSMVo4tq3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479097371082-okovo0a22emhiugaatqfk2r6lkvkjkgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
